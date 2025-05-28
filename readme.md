@@ -1,14 +1,14 @@
-# 🧑‍💻 Job Board API
+# Job Board API
 
 A simple RESTful API for managing job listings using **Node.js**, **Express**, and **PostgreSQL**.
 
-## 🔧 Features
+## Features
 
 - Create, read, update, and delete job listings (CRUD)
 - Built with Express and PostgreSQL
 - Easily testable using Postman or any HTTP client
 
-## 🗃️ Tech Stack
+## Tech Stack
 
 - **Backend**: Node.js, Express
 - **Database**: PostgreSQL
